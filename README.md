@@ -9,7 +9,7 @@ Desenvolvedor com experiência no ecossistema React. Iniciei minha jornada com R
   <img align="center" title="ReactJS" alt="Wes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="Electron" alt="Wes-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
   <img align="center" title="React-Native" alt="Wes-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
-  <img align="center" title="HTML5" alt="Wes-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" title="HTML5" alt="Wes-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" title="CSS" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
