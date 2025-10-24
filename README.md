@@ -2,11 +2,6 @@
 
 Desenvolvedor com experiência no ecossistema React. Iniciei minha jornada com React.js para web, expandindo depois para parte mobile com React Native, até chegar na parte do React Native TV. Atualmente, foco em aplicações desktop com Electron e Node.js, unindo front-end moderno com integração de back-end em JavaScript.
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslenmaricato&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslenmaricato&layout=compact&theme=dark#gh-dark-mode-only")](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
