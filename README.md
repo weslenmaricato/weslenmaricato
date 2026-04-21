@@ -4,7 +4,7 @@ Desenvolvedor com experiência no ecossistema React. Iniciei minha jornada com R
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" tile "NodeJS" alt="Wes-NodeJs" height="30" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="Wes-NodeJs" height="30" width="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="Javascript" alt="Wes-Js" height="30" width="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="Typescript" alt="Wes-TS" height="30" width="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" alt="Wes-React" height="30" width="30"/></td>
